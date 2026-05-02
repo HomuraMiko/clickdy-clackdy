@@ -1,4 +1,4 @@
-# ⌨️ Keyboard SFX Engine v1.0.0 Clickdy Clackdy
+# ⌨️ Keyboard SFX Engine v1.0.1 Clickdy Clackdy
 
 🤔 Why does this exist?
 Mechvibes exists. It's fine. But:
@@ -8,9 +8,6 @@ No random sound picker — same sound fires every single keypress. Sounds like a
 No mouse support — half the immersion just doesn't exist.
 
 This script fixes all three. Pure Python, random pick from a sound library on every keypress, mouse clicks included. That's it. That's the whole reason.
-
-but nothing is perfect... since this is PURE python and extremely light weight, it comes with the cost of latency where even the low latency mode gets about 20-50ms delay from keystroke to audio playback.
-this project is NOT for 100% REAL time... it is a solution for people like me that uses W-okada on a daily basis and thinks their stream just lacks natural background "noise" and are already working on audio sync. 
 
 ---
 
