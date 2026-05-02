@@ -1,5 +1,16 @@
 # ⌨️ Keyboard SFX Engine v1.0.0 Clickdy Clackdy
 
+🤔 Why does this exist?
+Mechvibes exists. It's fine. But:
+
+Electron — even if it's lightweight Electron, it's still Electron. No thanks.
+No random sound picker — same sound fires every single keypress. Sounds like a toy drum pad, not a keyboard. Anyone paying attention will clock it in 10 seconds.
+No mouse support — half the immersion just doesn't exist.
+
+This script fixes all three. Pure Python, random pick from a sound library on every keypress, mouse clicks included. That's it. That's the whole reason.
+
+---
+
 So you want people on Discord to think you're a real human sitting at a real desk with a real keyboard?
 Same honestly. Here's how to use this thing.
 
