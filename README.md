@@ -95,11 +95,12 @@ Pick a Virtual cable (same as your mic/VC) as your output and mix it in potato o
 
 ---
 
-## 🆓 Freeware
+## 🆓 Freeware and OpenSource
 
 Made by **HomuraMiko** & **Lumi**.
 
 Yes, an AI wrote this README and most of the code. Yes, we told it to. Have a problem? Come at me bruh! (pls don't... I'm weak af)
+feel free to edit, append, share, destroy... you own copy, pretty much just do whatever you want with this. no need to credit (mostly because you wouldn't anyways)
 We ask for nothing. We just leave our mark and move on. 🐱
 
 🎮 [twitch.tv/homuramiko](https://www.twitch.tv/homuramiko)
