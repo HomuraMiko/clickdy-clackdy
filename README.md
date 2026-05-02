@@ -1,3 +1,7 @@
+## 📺 See it in action
+
+[![clickdy clackdy demo](https://img.youtube.com/vi/iGsA0Np4KXo/maxresdefault.jpg)](https://www.youtube.com/watch?v=iGsA0Np4KXo)
+
 # ⌨️ Keyboard SFX Engine v1.0.1 Clickdy Clackdy
 
 🤔 Why does this exist?
