@@ -34,7 +34,7 @@ Throw your `.wav`, `.flac`, `.ogg` or `.mp3` files in here:
 | `sounds/mouse_up/` | Mouse click up |
 | `sounds/mouse_scroll/` | Scroll wheel (read the note below before you @ me) |
 
-More files per folder = more random variation = sounds more like a real keyboard and less like a drum machine. Throw like 5-10 wavs in each one. The default pack is a ROG Scope TKL recorded with a HyperX Quadcast in an actual room so the reverb is already baked in naturally. Swap it out if you want, we don't care.
+More files per folder = more random variation = sounds more like a real keyboard and less like a drum machine. Throw like 5-10 wavs in each one. The default pack is a ROG Scope TKL recorded with a HyperX Quadcast in an actual room so the reverb is already baked in naturally. Swap it out if you want, we don't care. (just unzip the Sounds.7z on the same folder as script)
 
 Want different sounds? Record your own keyboard. Or google "mechanical keyboard sound pack" and download one like a normal person. Just run the converter after and it'll sort itself out.
 
