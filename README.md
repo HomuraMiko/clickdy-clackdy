@@ -91,6 +91,13 @@ Pick a Virtual cable (same as your mic/VC) as your output and mix it in potato o
 
 ---
 
+## 💡 Reccomended Settings:
+- Select your headphones on the list of devices for 0 delay.
+- Capture CMD in OBS.
+- ???
+- Profit.
+---
+
 ## 📋 Requirements
 
 - Python 3.11+
